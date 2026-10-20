@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World! I'm Venkateshan A <br><br>🎮 Passionate Game Developer | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>🖌️ I love turning ideas into beautiful interfaces<br><br>⚡ Specializing in Graphic Designer, Data science, Power BI, HTML, CSS, JavaScript, Tailwind CSS<br><br>🧠 Leveling up my skills in Animations, C# Code writer<br><br>💬 Always ready to talk about frontend trends, design systems, and cool UI effects<br><br>🌱 Building pixel-perfect, responsive, and delightful user experiences<br><br>💻 Forever a student of design, accessibility, and web performance<br><br>✨ Let's create something awesome together!<br>
+👋 Hello Friend's! I'm Venkateshan A <br><br>🎮 Passionate Game Developer | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>🖌️ I love turning ideas into beautiful interfaces<br><br>⚡ Specializing in Graphic Designer, Data science, Power BI, HTML, CSS, JavaScript, Tailwind CSS<br><br>🧠 Leveling up my skills in Animations, C# Code writer<br><br>💬 Always ready to talk about frontend trends, design systems, and cool UI effects<br><br>🌱 Building pixel-perfect, responsive, and delightful user experiences<br><br>💻 Forever a student of design, accessibility, and web performance<br><br>✨ Let's create something awesome together!<br>
 
 
 ## 🌐 Socials:
